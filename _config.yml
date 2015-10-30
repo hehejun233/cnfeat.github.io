@@ -2,26 +2,26 @@
 title: 读立写生
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "Computer Eric!"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://www.computereric.xyz/"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
+  name: "Stuuudy"
+  email: iloveiphone5s@163.com
   bio: "写就是写的报酬"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
+douban_username:
+twitter_username:
+github_username:
 facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+weibo_username:
+zhihu_username:
 
 # Build settings  
 # use Github Flavored Markdown !important  
