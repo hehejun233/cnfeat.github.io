@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tags"
+title: "关键词"
 description: "这里是文章基因库"  
 header-img: "img/semantic.jpg"  
 ---
