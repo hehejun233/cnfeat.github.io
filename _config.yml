@@ -28,7 +28,7 @@ zhihu_username:
 # document: http://jekyllrb.com/docs/configuration/#kramdown  
 markdown: kramdown
 highlighter: pygments
-permalink: pretty
+permalink: /:title
 paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 relative_permalinks: true
@@ -51,9 +51,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : cnfeat
+    short_name : Eric
   disqus :
-      short_name : cnfeat
+      short_name : Eric
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
