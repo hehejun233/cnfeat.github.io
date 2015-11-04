@@ -13,6 +13,8 @@ header-img: "img/blue.jpg"
 
 [Crazy Song 3](http://www.computereric.xyz/cache/files/crazysong3.mp3)
 
+[Crazy Song 4](http://www.computereric.xyz/cache/files/crazysong4.mp3)
+
 [Crazy Song 5](http://www.computereric.xyz/cache/files/crazysong5.mp3)
 
 ##如何保存？
