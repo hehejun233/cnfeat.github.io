@@ -7,7 +7,7 @@ header-img: "img/blue.jpg"
 
 #Crazy Song
 
-[Crazy Song 1](http://www.computereric.xyz/cache/files/crazysong1.mp3)
+[![](http://computereric.xyz/cache/img/musicplay.png)](http://www.computereric.xyz/cache/files/crazysong1.mp3)
 
 [Crazy Song 2](http://www.computereric.xyz/cache/files/crazysong2.mp3)
 
