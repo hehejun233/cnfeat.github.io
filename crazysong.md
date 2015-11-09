@@ -17,6 +17,8 @@ header-img: "img/blue.jpg"
 
 [![](http://computereric.xyz/cache/img/musicplay5.png)](http://www.computereric.xyz/cache/files/crazysong5.mp3)
 
+[![](http://computereric.xyz/cache/img/musicplay6.png)](http://www.computereric.xyz/cache/files/crazysong6.mp3)
+
 ##如何保存？
  
 ###(示例系统为 OS X Yosemite 10.10.5)
