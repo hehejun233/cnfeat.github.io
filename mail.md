@@ -4,6 +4,7 @@ title: "Mail"
 description: "该服务由阿里云邮箱支持"
 header-img: "img/zhihu.jpg"
 ---
+#[前往邮箱](http://mail.computereric.xyz)
 #邮箱服务 声明
   
   该邮箱由***阿里云企业邮箱***提供，邮箱结尾均为***@computereric.xyz***。
