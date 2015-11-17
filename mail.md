@@ -12,6 +12,6 @@ header-img: "img/zhihu.jpg"
 ##邮箱服务 帮助
 
 ###如何注册？
-  注册请通过联系管理员来注册，管理员邮箱[***admin@computereric.xyz***](mailto://admin@computereric.xyz)。
+  注册请通过联系管理员来注册，管理员邮箱[***xiang@computereric.xyz***](mailto://admin@computereric.xyz)。
   初始密码为***Ceric123***，请尽快更改密码。
   ![](http://www.computereric.xyz/cache/img/mail1.png)
