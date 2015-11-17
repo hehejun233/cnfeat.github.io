@@ -2,7 +2,7 @@
 layout: page
 title: "关于"
 description: "电脑小逗比"
-permlink:/about/
+permalink:/about/
 header-img: "img/green.jpg"
 ---
 
