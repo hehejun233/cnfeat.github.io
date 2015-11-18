@@ -19,6 +19,8 @@ Github Pages 有以下诸多优点：
 
 #目录
 1.0 [前言](http://www.computereric.xyz/blog/build_a_github_blog/#section)
-1.0.1 [为什么选择 Github Pages?](
+
+1.0.1 [为什么选择 Github Pages?](http://www.computereric.xyz/blog/build_a_github_blog/#github-pages)
+
 1.1 [目录](http://www.computereric.xyz/blog/build_a_github_blog/#section-1)
 
