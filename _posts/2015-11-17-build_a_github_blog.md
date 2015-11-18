@@ -21,6 +21,10 @@ Github Pages 有以下诸多优点：
 
 5、就算 github 被墙了，还可以搬到国内的 gitcafe 中去。
 
+##什么是Github Pages?
+
+Github Pages是用来介绍你托管在Github上面的项目的，不过由于空间免费而且资源稳定，用来搭建自己的网站再好不过了。
+
 #目录
 1.0 [前言](http://www.computereric.xyz/blog/build_a_github_blog/#section)
 
