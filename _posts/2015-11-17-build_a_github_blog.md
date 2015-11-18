@@ -48,4 +48,4 @@ Github Pages 有以下诸多优点：
 接下来找到**Your Respositories**，你应该没有任何仓库，选择**+ New respositories**
 ![](http://www.computereric.xyz/cache/img/ghpages/3.png)
 
-这时你需要注意的是，主仓库命名必须为<pre><code>username.github.io</code></pre>。其实.io换成.com也是可以的，但是不推荐。
+这时你需要注意的是，主仓库命名必须为<code>username.github.io</code>。其实.io换成.com也是可以的，但是不推荐。
