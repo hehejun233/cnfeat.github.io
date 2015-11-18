@@ -2,6 +2,7 @@
 layout: page
 title: "Crazy Song"
 description: "GarageBand原创作品"
+permalink: "/crazy_song/"
 header-img: "img/blue.jpg"
 ---
 
