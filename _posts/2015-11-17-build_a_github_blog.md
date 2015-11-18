@@ -55,4 +55,4 @@ Github Pages 有以下诸多优点：
 这时你需要注意的是，主仓库命名必须为<code>username.github.io</code>。其实.io换成.com也是可以的，但是不推荐。
 
 至此为止，你的仓库算是建造完成了。你应该会看到这样的页面。
-![](http://www.computereric.xyz/cache/img/ghpages/4.png)
+![](http://www.computereric.xyz/cache/img/ghpages/7.png)
