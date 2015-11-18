@@ -39,3 +39,4 @@ Github Pages是用来介绍你托管在Github上面的项目的，不过由于�
 2.0 [注册Github](http://www.computereric.xyz/blog/build_a_github_blog/#github)
 
 #注册Github
+
