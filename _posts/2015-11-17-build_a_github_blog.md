@@ -39,6 +39,8 @@ Github Pages 有以下诸多优点：
 
 3.0 [新建仓库](http://www.computereric.xyz/blog/build_a_github_blog/#section-2)
 
+3.0.1 [仓库个性化主题](http://www.computereric.xyz/blog/build_a_github_blog/#section-3)
+
 #注册Github
 
 首先，注册或者登录[Github](http://github.com/)。
@@ -52,7 +54,11 @@ Github Pages 有以下诸多优点：
 接下来找到<code>Your Respositories</code>，你应该没有任何仓库，选择<code>+ New respositories</code>
 ![](http://www.computereric.xyz/cache/img/ghpages/3.png)
 
-这时你需要注意的是，主仓库命名必须为<code>username.github.io</code>。其实.io换成.com也是可以的，但是不推荐。
+这时你需要注意的是，主仓库命名必须为<code>username.github.io</code>。其实<code>.io</code>换成<code>.com</code>也是可以的，但是不推荐。
 
 至此为止，你的仓库算是建造完成了。你应该会看到这样的页面。
 ![](http://www.computereric.xyz/cache/img/ghpages/7.png)
+
+##仓库个性化主题
+
+登陆[Jekyll](http://jekyllthemes.org)，找到一个自己喜欢的主题，选择<code>Home</code>。在右上角找到<code>fork</code>，然后你在自己的仓库里就有了一个一模一样的仓库。不过你要做的就是把仓库的名称改为<code>username.github.io</code>
