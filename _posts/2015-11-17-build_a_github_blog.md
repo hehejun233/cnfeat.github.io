@@ -44,3 +44,6 @@ Github Pages 有以下诸多优点：
 
 进去之后套餐选择**Free**就可以了，除非是有特殊需要，**Free**套餐基本上可以满足你的需求了。
 ![](http://www.computereric.xyz/cache/img/ghpages/2.png)
+
+接下来找到***Your Respositories***，你应该没有任何仓库，选择***+ New respositories***
+![](http://www.computereric.xyz/cache/img/ghpages/3.png)
