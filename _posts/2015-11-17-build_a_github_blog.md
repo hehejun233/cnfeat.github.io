@@ -41,6 +41,8 @@ Github Pages 有以下诸多优点：
 
 3.0.1 [仓库个性化主题](http://www.computereric.xyz/blog/build_a_github_blog/#section-3)
 
+4.0 [仓库讲解以及语言知识](http://www.computereric.xyz/blog/build_a_github_blog/#section-4)
+
 #注册Github
 
 首先，注册或者登录[Github](http://github.com/)。
@@ -63,4 +65,4 @@ Github Pages 有以下诸多优点：
 
 登陆[Jekyll](http://jekyllthemes.org)，找到一个自己喜欢的主题，选择<code>Home</code>。在右上角找到<code>fork</code>，然后你在自己的仓库里就有了一个一模一样的仓库。不过你要做的就是把仓库的名称改为<code>username.github.io</code>，是不是非常简单呢！
 
-#<code>剩下的文章11月19日继续编写</code>
+#仓库讲解以及语言知识
