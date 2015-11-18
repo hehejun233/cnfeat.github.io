@@ -30,5 +30,7 @@ Github Pages是用来介绍你托管在Github上面的项目的，不过由于�
 
 1.0.1 [为什么选择 Github Pages?](http://www.computereric.xyz/blog/build_a_github_blog/#github-pages)
 
+1.0.2 [什么是Github Pages?](http://www.computereric.xyz/blog/build_a_github_blog/#github-pages-1)
+
 1.1 [目录](http://www.computereric.xyz/blog/build_a_github_blog/#section-1)
 
