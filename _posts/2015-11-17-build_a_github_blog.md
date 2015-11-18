@@ -43,6 +43,8 @@ Github Pages 有以下诸多优点：
 
 4.0 [仓库讲解以及语言知识](http://www.computereric.xyz/blog/build_a_github_blog/#section-4)
 
+4.0.1 [必要文件](http://www.computereric.xyz/blog/build_a_github_blog/#section-5)
+
 #注册Github
 
 首先，注册或者登录[Github](http://github.com/)。
@@ -66,3 +68,9 @@ Github Pages 有以下诸多优点：
 登陆[Jekyll](http://jekyllthemes.org)，找到一个自己喜欢的主题，选择<code>Home</code>。在右上角找到<code>fork</code>，然后你在自己的仓库里就有了一个一模一样的仓库。不过你要做的就是把仓库的名称改为<code>username.github.io</code>，是不是非常简单呢！
 
 #仓库讲解以及语言知识
+
+##必要文件
+
+<code>_config.yml</code>是该网页的配置文件，设置好了之后就不用理它了。
+
+<code>includes</code>是用于存放一些小的可复用的模块，一般不用设置。
