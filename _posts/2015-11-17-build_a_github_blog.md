@@ -54,7 +54,7 @@ Github Pages 有以下诸多优点：
 
 4.4 [博客自定义文件](http://www.computereric.xyz/blog/build_a_github_blog/#section-6)
 
-
+4.5 [Jekyll的配置](http://www.computereric.xyz/blog/build_a_github_blog/#jekyll-4)
 
 
 #注册Github
@@ -109,6 +109,29 @@ Jekyll的核心其实就是一个文本的转换引擎，用你最喜欢的标�
 
 其他文件或文件夹是可以随意创建的，例如我在<code>username.github.io</code>下创建了<code>project</code>文件夹，在此文件夹中上传了<code>project.docx</code>，你可以通过<code>http://username.github.io/project/project.docx</code>访问。例如我在主分支中创建了<code>cache</code>文件夹，在其中创建了<code>files</code>又在其中储存了<code>crazysong6.mp3</code>，你可以通过[<code>http://www.computereric.xyz/cache/files/crazysong6.mp3</code>](http://www.computereric.xyz/cache/files/crazysong6.mp3)访问。
 
+##Jekyll的配置
 
+Jekyll的配置写在<code>_config.yml</code>文件中，可配置项有很多，我们不去一一追究了，很多配置虽有用但是一般不需要去关心，官方配置文档有很详细的说明，确实需要了可以去这里查，我们主要说两个比较重要的东西，一个是<code>permalink</code>，还有就是自定义项。
+
+<code>permalink</code>项用来定义你最终的文章链接是什么形式，他有下面几个变量：
+
+<code>year</code> 文件名中的年份
+<code>month</code> 文件名中的月份
+<code>day</code> 文件名中的日期
+<code>title</code> 文件名中的文章标题
+<code>categories</code> 文章的分类，如果文章没有分类，会忽略
+<code>i-month</code> 文件名中的除去前缀0的月份
+<code>i-day</code> 文件名中的除去前缀0的日期
+看看最终的配置效果：
+
+<code>permalink: pretty</code> /2015/11/17/build_a_github_blog/
+<code>permalink: /:month-:day-:year/:title.html</code> /11-17-2015/build_a_github_blog/
+<code>permalink: /blog/:year/:month/:day/:title</code> /blog/2009/04/29/build_a_github_blog/
+我使用的是：
+
+<code>permalink: /blog/:title</code> /blog/build_a_github_blog/
+自定义项的内容，例如我们定义了<code>title</code>这样一项，那么你就可以在文章中使用<code>{ { site.title }}</code>来引用这个变量了，非常方便定义些全局变量。
+
+引用的例子：{{site.title}}
 
 #Updating...
