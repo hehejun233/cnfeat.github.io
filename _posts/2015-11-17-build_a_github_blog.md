@@ -42,15 +42,17 @@ Github Pages 有以下诸多优点：
 
 3.0 [新建仓库](http://www.computereric.xyz/blog/build_a_github_blog/#section-2)
 
-3.0.1 [仓库个性化主题](http://www.computereric.xyz/blog/build_a_github_blog/#section-3)
+3.1 [仓库个性化主题](http://www.computereric.xyz/blog/build_a_github_blog/#section-3)
 
 4.0 [Jekyll详解](http://www.computereric.xyz/blog/build_a_github_blog/#jekyll)
 
-4.0.1 [什么是Jekyll](http://www.computereric.xyz/blog/build_a_github_blog/#jekyll-2)
+4.1 [什么是Jekyll](http://www.computereric.xyz/blog/build_a_github_blog/#jekyll-2)
 
-4.0.2 [博客必要文件](http://www.computereric.xyz/blog/build_a_github_blog/#section-5)
+4.2 [Jekyll基本结构](http://www.computereric.xyz/blog/build_a_github_blog/#jekyll-3)
 
-4.0.3 [博客自定义文件](http://www.computereric.xyz/blog/build_a_github_blog/#section-6)
+4.3 [博客必要文件](http://www.computereric.xyz/blog/build_a_github_blog/#section-5)
+
+4.4 [博客自定义文件](http://www.computereric.xyz/blog/build_a_github_blog/#section-6)
 
 
 
