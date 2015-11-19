@@ -44,11 +44,16 @@ Github Pages 有以下诸多优点：
 
 3.0.1 [仓库个性化主题](http://www.computereric.xyz/blog/build_a_github_blog/#section-3)
 
-4.0 [仓库讲解以及语言知识](http://www.computereric.xyz/blog/build_a_github_blog/#section-4)
+4.0 [Jekyll详解](http://www.computereric.xyz/blog/build_a_github_blog/#jekyll)
 
-4.0.1 [必要文件](http://www.computereric.xyz/blog/build_a_github_blog/#section-5)
+4.0.1 [什么是Jekyll](http://www.computereric.xyz/blog/build_a_github_blog/#jekyll-2)
 
-4.0.2 [自定义文件](http://www.computereric.xyz/blog/build_a_github_blog/#section-6)
+4.0.2 [博客必要文件](http://www.computereric.xyz/blog/build_a_github_blog/#section-5)
+
+4.0.3 [博客自定义文件](http://www.computereric.xyz/blog/build_a_github_blog/#section-6)
+
+
+
 
 #注册Github
 
@@ -72,9 +77,19 @@ Github Pages 有以下诸多优点：
 
 登陆[Jekyll](http://jekyllthemes.org)，找到一个自己喜欢的主题，选择<code>Home</code>。在右上角找到<code>fork</code>，然后你在自己的仓库里就有了一个一模一样的仓库。不过你要做的就是把仓库的名称改为<code>username.github.io</code>，是不是非常简单呢！
 
-#仓库讲解以及语言知识
+#Jekyll详解
 
-##必要文件
+##什么是Jekyll
+
+GitHub Pages为了提供对HTML内容的支持，选择了Jekyll作为模板系统，Jekyll是一个强大的静态模板系统，作为个人博客使用，基本上可以满足要求，也能保持管理的方便，你可以查看Jekyll官方文档。
+
+你可以直接fork我的项目，然后改名，就有了你自己的满足Jekyll要求的文档了，当然你也可以按照下面的介绍自己创建。
+
+##Jekyll基本结构
+
+Jekyll的核心其实就是一个文本的转换引擎，用你最喜欢的标记语言写文档，可以是Markdown、Textile或者HTML等等，再通过layout将文档拼装起来，根据你设置的URL规则来展现，这些都是通过严格的配置文件来定义，最终的产出就是web页面。
+
+##博客必要文件
 
 <code>_config.yml</code>是该网页的配置文件，设置好了之后就不用理它了。
 
@@ -82,13 +97,16 @@ Github Pages 有以下诸多优点：
 
 <code>_layouts</code>是用于存放该网页的模版文件的。
 
-<code>_posts</code>是用来存放博客博文的，需要注意的是，这里面的文件名必须要<code>year-month-date-title.md</code>，例如这篇文章就是<code>2015-11-17-build_a_github_blog.md</code>。
+<code>_posts</code>是用来存放博客博文的，需要注意的是，这里面的文件名必须要<code>year-month-date-title.后缀</code>，例如这篇文章就是<code>2015-11-17-build_a_github_blog.md</code>，后缀可以选择<code>.md</code>，<code>.html</code>，或是<code>.textile</code>，这里推荐使用.md。
 
-##自定义文件
+##博客自定义文件
 
 <code>404.html</code>网址访问错误时弹出的错误信息。
 
 <code>CNAME</code>用于绑定域名
 
 其他文件或文件夹是可以随意创建的，例如我在<code>username.github.io</code>下创建了<code>project</code>文件夹，在此文件夹中上传了<code>project.docx</code>，你可以通过<code>http://username.github.io/project/project.docx</code>访问。例如我在主分支中创建了<code>cache</code>文件夹，在其中创建了<code>files</code>又在其中储存了<code>crazysong6.mp3</code>，你可以通过[<code>http://www.computereric.xyz/cache/files/crazysong6.mp3</code>](http://www.computereric.xyz/cache/files/crazysong6.mp3)访问。
+
+
+
 #Updating...
