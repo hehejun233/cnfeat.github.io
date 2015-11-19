@@ -137,12 +137,27 @@ Jekyll的配置写在<code>_config.yml</code>文件中，可配置项有很多�
 YAML Front Matter和模板变量
 
 对于使用YAML定义格式的文章，Jekyll会特别对待，他的格式要求比较严格，必须是这样的形式：
+
 <pre><code>
 ---
 layout: post
 title: test123
 ---
 </code></pre>
+
+这是本文章的例子：
+
+<pre><code>
+---
+title: 利用Github Pages搭建一个个人博客
+layout: post
+date: 2015-11-17
+categories: blog
+tags: [Github]
+description: 请阅读全部内容！
+---
+</code></pre>
+
 前后的<code>---</code>不能省略，在这之间，你可以定一些你需要的变量，<code>layout</code>就是调用<code>_layouts</code>下面的某一个模板，他还有一些其他的变量可以使用：
 
 <code>permalink</code> 你可以对某一篇文章使用通用设置之外的永久链接
