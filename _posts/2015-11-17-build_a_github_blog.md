@@ -79,6 +79,6 @@ Github Pages 有以下诸多优点：
 
 <code>_layouts</code>是用于存放该网页的模版文件的。
 
-<code>_posts</code>是用来存放博客博文的，需要注意的是，这里面的文件名必须要<code>year-month-date-title.md</code>
+<code>_posts</code>是用来存放博客博文的，需要注意的是，这里面的文件名必须要<code>year-month-date-title.md</code>，例如这篇文章就是<code>2015-11-17-build_a_github_blog.md</code>。
 
 #Updating...
