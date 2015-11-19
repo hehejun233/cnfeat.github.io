@@ -80,6 +80,13 @@ s.setAttribute('data-timestamp', +new Date());
 
 <script id="dsq-count-scr" src="//ceric.disqus.com/count.js" async></script>
 
+$('#disqus_container .comment').on('click',function(){
+        $(this).html('加载中...');
+        var disqus_shortname = 'beiyuu';
+        var that = this;
+        BYB.includeScript('http://' + disqus_shortname + '.disqus.com/embed.js',function(){$(that).remove()}); 
+});
+
 <!-- async load function -->
 <script>
     function async(u, c) {
