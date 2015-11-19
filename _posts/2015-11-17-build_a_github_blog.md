@@ -130,7 +130,7 @@ Jekyll的配置写在<code>_config.yml</code>文件中，可配置项有很多�
 我使用的是：
 
 <code>permalink: /blog/:title</code> /blog/build_a_github_blog/
-自定义项的内容，例如我们定义了<code>title</code>这样一项，那么你就可以在文章中使用<code>{ { site.title }}</code>来引用这个变量了，非常方便定义些全局变量。
+自定义项的内容，例如我们定义了<code>title</code>这样一项，那么你就可以在文章中使用<code>{{site.title }}</code>来引用这个变量了，非常方便定义些全局变量。
 
 引用的例子：{{site.title}}
 
