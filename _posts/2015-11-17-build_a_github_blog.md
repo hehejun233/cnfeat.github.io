@@ -116,25 +116,35 @@ Jekyll的配置写在<code>_config.yml</code>文件中，可配置项有很多�
 <code>permalink</code>项用来定义你最终的文章链接是什么形式，他有下面几个变量：
 
 <code>year</code> 文件名中的年份
+
 <code>month</code> 文件名中的月份
+
 <code>day</code> 文件名中的日期
+
 <code>title</code> 文件名中的文章标题
+
 <code>categories</code> 文章的分类，如果文章没有分类，会忽略
+
 <code>i-month</code> 文件名中的除去前缀0的月份
+
 <code>i-day</code> 文件名中的除去前缀0的日期
+
 看看最终的配置效果：
 
 <code>permalink: pretty</code> /2015/11/17/build_a_github_blog/
+
 <code>permalink: /:month-:day-:year/:title.html</code> /11-17-2015/build_a_github_blog/
+
 <code>permalink: /blog/:year/:month/:day/:title</code> /blog/2009/04/29/build_a_github_blog/
 我使用的是：
 
 <code>permalink: /blog/:title</code> /blog/build_a_github_blog/
+
 自定义项的内容，例如我们定义了<code>title</code>这样一项，那么你就可以在文章中使用<code>{{site.title }}</code>来引用这个变量了，非常方便定义些全局变量。
 
 引用的例子：{{site.title}}
 
-YAML Front Matter和模板变量
+#YAML Front Matter和模板变量
 
 对于使用YAML定义格式的文章，Jekyll会特别对待，他的格式要求比较严格，必须是这样的形式：
 
