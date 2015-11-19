@@ -56,6 +56,8 @@ Github Pages 有以下诸多优点：
 
 4.5 [Jekyll的配置](http://www.computereric.xyz/blog/build_a_github_blog/#jekyll-4)
 
+4.6 [YAML Front Matter和模版变量](http://www.computereric.xyz/blog/build_a_github_blog/#yaml-front-matter)
+
 
 #注册Github
 
