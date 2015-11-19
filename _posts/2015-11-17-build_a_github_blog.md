@@ -1,6 +1,6 @@
 ---
 title: 利用Github Pages搭建一个个人博客
-layout: post
+layout: dq
 date: 2015-11-17
 categories: blog
 tags: [Github]
