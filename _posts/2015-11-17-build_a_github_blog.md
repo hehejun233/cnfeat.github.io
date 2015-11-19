@@ -74,3 +74,5 @@ Github Pages 有以下诸多优点：
 <code>_config.yml</code>是该网页的配置文件，设置好了之后就不用理它了。
 
 <code>includes</code>是用于存放一些小的可复用的模块，一般不用设置。
+
+<code>_layouts</code>是用于存放该网页的模版文件的。
