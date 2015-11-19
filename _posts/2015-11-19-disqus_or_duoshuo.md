@@ -1,5 +1,5 @@
 ---
-layout: dsdq
+layout: dq
 title: Disqus or Duoshuo? 你喜欢Disqus还是多说？
 date: 2015-11-19
 categories: blog
