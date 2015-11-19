@@ -27,6 +27,8 @@ Github Pages 有以下诸多优点：
 [Github Pages](http://pages.github.com/)是用来介绍你托管在Github上面的项目的，不过由于空间免费而且资源稳定，用来搭建自己的网站再好不过了。
 
 #目录
+0.0 [持续更新中](http://www.computereric.xyz/blog/build_a_github_blog/#updating)
+
 1.0 [前言](http://www.computereric.xyz/blog/build_a_github_blog/#section)
 
 1.0.1 [为什么选择 Github Pages?](http://www.computereric.xyz/blog/build_a_github_blog/#github-pages)
