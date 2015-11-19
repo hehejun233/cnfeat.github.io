@@ -2,6 +2,7 @@
 layout: page
 title: "文章"
 description: "这里是文章"
+permalink: "/archive/"
 header-img: "img/orange.jpg"
 ---
 
