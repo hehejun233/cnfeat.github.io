@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "关于"
-description: "电脑小逗比"
+description: "电脑 GENIUS"
 permalink: "/about/"
 header-img: "img/green.jpg"
 ---
