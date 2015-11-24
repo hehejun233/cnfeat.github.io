@@ -58,7 +58,7 @@ Github Pages 有以下诸多优点：
 
 4.6 [YAML Front Matter和模版变量](http://www.computereric.xyz/blog/build_a_github_blog/#yaml-front-matter)
 
-5.0 [](http://www.computereric.xyz/blog/build_a_github_blog/#github-desktop)
+5.0 [使用Github Desktop同步](http://www.computereric.xyz/blog/build_a_github_blog/#github-desktop)
 
 
 #注册Github
