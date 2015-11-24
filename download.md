@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "关于"
-description: "下载源：<code>PC 6</code>"
-permalink: "/about/"
+description: "下载源：pc6.com"
+permalink: "/download/"
 header-img: "img/green.jpg"
 ---
