@@ -60,6 +60,8 @@ Github Pages 有以下诸多优点：
 
 5.0 [使用Github Desktop同步](http://www.computereric.xyz/blog/build_a_github_blog/#github-desktop)
 
+6.0 [绑定你的域名](http://www.computereric.xyz/blog/build_a_github_blog/#section-7)
+
 
 #注册Github
 
@@ -189,5 +191,9 @@ PS:本人使用OS X， Windows操作应该与本教程相差无几。
 首先登陆[<code>desktop.github.com</code>](http://desktop.github.com/)，下载<code>Github Desktop</code>。接下来在应用界面登陆你的Github账号。然后再打开你的Github仓库，找到<code>Clone to Desktop</code>，就会同步到本地了。
 
 本地文件更改之后，在<code>Github Desktop</code>中会弹出<code>{num} Uncommited Changes</code>。接下来在底下填上同步信息和描述就可以了，这些信息随便填，没有什么用处。
+
+#绑定你的域名
+
+当你的仓库发布了之后，你可以通过<code>http://username.github.io/</code>访问。可是如果你想要一个个性化的域名呢？
 
 #Updating...
