@@ -4,7 +4,7 @@ header-img: "img/facebook.jpg"
 tagline: "cn"  
 description: "Computer Eric!"  
 baseurl: "/"
-url: "http://www.computereric.xyz/"  
+url: "http://www.computereric.xyz"  
 
 # About/contact
 owner: 
