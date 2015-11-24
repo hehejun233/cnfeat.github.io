@@ -184,4 +184,6 @@ description: 请阅读全部内容！
 
 #使用Github Desktop同步
 
+本人使用OS X， Windows操作应该与本教程相差无几。
+
 #Updating...
