@@ -58,6 +58,8 @@ Github Pages 有以下诸多优点：
 
 4.6 [YAML Front Matter和模版变量](http://www.computereric.xyz/blog/build_a_github_blog/#yaml-front-matter)
 
+5.0 [](http://www.computereric.xyz/blog/build_a_github_blog/#github-desktop)
+
 
 #注册Github
 
@@ -179,5 +181,7 @@ description: 请阅读全部内容！
 上面的title就是自定义的内容，你也可以设置其他的内容，在文章中可以通过<code>{{ page.title }}</code>这样的形式调用。
 
 模板变量，我们之前也涉及了不少了，还有其他需要的变量，可以参考官方的文档：[<code>https://github.com/mojombo/jekyll/wiki/template-data</code>](https://github.com/mojombo/jekyll/wiki/template-data)
+
+#使用Github Desktop同步
 
 #Updating...
