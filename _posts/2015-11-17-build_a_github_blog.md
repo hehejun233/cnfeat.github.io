@@ -195,6 +195,6 @@ PS:本人使用OS X， Windows操作应该与本教程相差无几。
 #绑定你的域名
 
 当你的仓库发布了之后，你可以通过<code>http://username.github.io/</code>访问。可是如果你想要一个个性化的域名呢？
-这里以[<code>Dot TK</code>](http://dot.tk/)为例。首先登陆dottk，然后填一个你喜欢的域名。接下来进入DNS设置，填写你在终端<code>ping</code>的ip地址，现在是<code>103.245.222.133</code>，总之是一串带点的数字就好了。接下来返回你的仓库，在根目录处创建一个<code>CNAME</code>文件。里面填上你的域名，不要带<code>http://<code>和结尾的<code>/</code>。别的收费注册域名商操作方法也是类似的，找到解析就好。推荐使用<code>DNSPOD</code>
+这里以[<code>Dot TK</code>](http://dot.tk/)为例。首先登陆dottk，然后填一个你喜欢的域名。接下来进入DNS设置，填写你在终端<code>ping</code>的ip地址，现在是<code>103.245.222.133</code>，总之是一串带点的数字就好了。接下来返回你的仓库，在根目录处创建一个<code>CNAME</code>文件。里面填上你的域名，不要带<code>http://</code>和结尾的<code>/</code>。别的收费注册域名商操作方法也是类似的，找到解析就好。推荐使用<code>DNSPOD</code>
 
 #Updating...
