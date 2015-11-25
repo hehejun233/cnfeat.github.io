@@ -8,17 +8,7 @@ header-img: "img/blue.jpg"
 
 #Crazy Song
 
-[![](http://computereric.xyz/cache/img/musicplay1.png)](http://www.computereric.xyz/cache/files/crazysong1.mp3)
-
-[![](http://computereric.xyz/cache/img/musicplay2.png)](http://www.computereric.xyz/cache/files/crazysong2.mp3)
-
-[![](http://computereric.xyz/cache/img/musicplay3.png)](http://www.computereric.xyz/cache/files/crazysong3.mp3)
-
-[![](http://computereric.xyz/cache/img/musicplay4.png)](http://www.computereric.xyz/cache/files/crazysong4.mp3)
-
-[![](http://computereric.xyz/cache/img/musicplay5.png)](http://www.computereric.xyz/cache/files/crazysong5.mp3)
-
-[![](http://computereric.xyz/cache/img/musicplay6.png)](http://www.computereric.xyz/cache/files/crazysong6.mp3)
+[![](http://computereric.xyz/cache/img/musicplay1.png)](http://www.computereric.xyz/cache/files/crazysong1.mp3)[![](http://computereric.xyz/cache/img/musicplay2.png)](http://www.computereric.xyz/cache/files/crazysong2.mp3)[![](http://computereric.xyz/cache/img/musicplay3.png)](http://www.computereric.xyz/cache/files/crazysong3.mp3)[![](http://computereric.xyz/cache/img/musicplay4.png)](http://www.computereric.xyz/cache/files/crazysong4.mp3)[![](http://computereric.xyz/cache/img/musicplay5.png)](http://www.computereric.xyz/cache/files/crazysong5.mp3)[![](http://computereric.xyz/cache/img/musicplay6.png)](http://www.computereric.xyz/cache/files/crazysong6.mp3)
 
 ##如何保存？
  
