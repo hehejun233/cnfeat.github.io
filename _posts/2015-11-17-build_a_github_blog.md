@@ -28,7 +28,6 @@ Github Pages 有以下诸多优点：
 [Github Pages](http://pages.github.com/)是用来介绍你托管在Github上面的项目的，不过由于空间免费而且资源稳定，用来搭建自己的网站再好不过了。
 
 #目录
-0.0 [持续更新中](http://www.computereric.xyz/blog/build_a_github_blog/#updating)
 
 1.0 [前言](http://www.computereric.xyz/blog/build_a_github_blog/#section)
 
@@ -61,8 +60,6 @@ Github Pages 有以下诸多优点：
 5.0 [使用Github Desktop同步](http://www.computereric.xyz/blog/build_a_github_blog/#github-desktop)
 
 6.0 [绑定你的域名](http://www.computereric.xyz/blog/build_a_github_blog/#section-7)
-
-7.0 [必备语法](http://www.computereric.xyz/blog/build_a_github_blog/#section-8)
 
 
 #注册Github
@@ -198,11 +195,3 @@ PS:本人使用OS X， Windows操作应该与本教程相差无几。
 
 当你的仓库发布了之后，你可以通过<code>http://username.github.io/</code>访问。可是如果你想要一个个性化的域名呢？
 这里以[<code>Dot TK</code>](http://dot.tk/)为例。首先登陆dottk，然后填一个你喜欢的域名。接下来进入DNS设置，填写你在终端<code>ping</code>的ip地址，现在是<code>103.245.222.133</code>，总之是一串带点的数字就好了。接下来返回你的仓库，在根目录处创建一个<code>CNAME</code>文件。里面填上你的域名，不要带<code>http://</code>和结尾的<code>/</code>。别的收费注册域名商操作方法也是类似的，找到解析就好。推荐使用<code>DNSPOD</code>
-
-#必备语法
-
-这里简单的讲一些<code>html</code>语言，如果有不对的地方请及时纠正！
-
-<code><code></code></code>
-
-#Updating...
